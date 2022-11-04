@@ -6,6 +6,7 @@
   /* Element selectors */
   body {
     background-color: rgb(77, 207, 243);
+    padding-top: 10%;
   }
   
   header{
@@ -28,10 +29,7 @@
     text-align: left;
     text-indent: 20px ;  }
   
- h
-  body{
-    padding-top: 120px;
-  }
+ 
     
     figure {
     width: 200px;
@@ -106,6 +104,6 @@ text ;}
     background-color: #ff5900;
   }
 
-#contact-form{
+#contact-form{cd booc
    
 }
